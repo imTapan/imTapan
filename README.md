@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning new things in Web
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about Javascript Frameworks
-- 📫 How to reach me: work.tapanpadaliya@gmail.com
+- 📫 How to reach me: work.tapanpatel@gmail.com
 - 😄 Pronouns: undefined
 - ⚡ Fun fact: null
